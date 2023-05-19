@@ -103,7 +103,7 @@
     {
       "name": "bonn_2017",
       "format": "csv",
-      "path": "https://storage.openspending.org/bonn_2017.csv",
+      "path": "https://storage.openspending.org/bonn/bonn_2017.csv",
       "mediatype": "application/vnd.ms-excel",
       "bytes": 83955643,
       "dialect": {

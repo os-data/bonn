@@ -95,6 +95,10 @@
   "promise": {},
   "regionCode": "eu",
   "countryCode": "DE",
+  "fiscalPeriod": {
+    "start": "2007-01-01",
+    "stop": "2007-12-31"
+  },
   "cityCode": "Bonn",
   "title": "Bonn",
   "name": "bonn2017",
